@@ -1,0 +1,10 @@
+Business Use case: we have data available in amazon S3 location in csv format and we want to create
+pipeline which will be able to transfer data from amazon s3 location another bucket
+in avro format and the pipeline should run through lambda triggers.
+
+1.Create s3 bucket
+2.create crawler
+3.create etl jobs scripts
+4.do transformation
+5. attach IAM POLICY
+6. lambda trigger
