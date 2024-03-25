@@ -13,5 +13,5 @@ pyautogui.write('remote', interval=0.25)
 pyautogui.press('enter')
 time.sleep(2)  # Wait for the browser to open
 
-pyautogui.write('10.190.30.51', interval=0.25)
+pyautogui.write('', interval=0.25)
 pyautogui.press('enter')
