@@ -13,6 +13,14 @@ Data Storage with Amazon S3: Learn how to organize and store your sales data eff
 Serverless Querying with Amazon Athena: Discover the ease of executing SQL queries on your S3-stored data using Athena, without the need for a traditional database.
 Analysis in Jupyter Notebooks: See the data come to life through analysis and visualization directly in a Jupyter Notebook.
 
+🌐 **New Project: ChatGPT Integration with AWS Lambda**
+Overview: This project demonstrates how to integrate OpenAI's ChatGPT with AWS Lambda to create a seamless serverless application. User input is received through an API Gateway, processed by AWS Lambda, and the response is generated using the OpenAI API. The resulting response is stored in an S3 bucket for easy access and retrieval.
+
+**Key Features:**
+User Input Handling: API Gateway receives and forwards user input to the Lambda function.
+Serverless Processing: AWS Lambda utilizes the OpenAI API to process the input and generate a response dynamically.
+Response Storage: Generated responses are stored in Amazon S3 for persistence and future use.
+Scalability and Efficiency: This serverless approach showcases the potential of combining AI capabilities with AWS infrastructure.
 
 **Why Follow This Repository?**
 
@@ -23,7 +31,5 @@ Future Updates: As I progress, new projects will be added, showcasing more advan
 **Upcoming Adventures**
 
 Stay tuned for more projects exploring different facets of AWS, including but not limited to:
-Data Lakes with AWS Lake Formation
-ETL workflows with AWS Glue
-Real-time data streaming with Amazon Kinesis
-Data warehousing with Amazon Redshift
+* Building LLM Agents with Autogen: Leverage AWS infrastructure to deploy language model agents using Autogen, automating tasks and interactions with powerful AI-driven workflows.
+* Interactive Streamlit Dashboards: Create visually appealing and interactive dashboards powered by AWS data solutions, integrating real-time analysis and user-friendly interfaces for seamless decision-making.
