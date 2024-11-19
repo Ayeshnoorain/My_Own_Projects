@@ -5,9 +5,11 @@
 This repository is a personal collection of my data engineering projects as I explore and master various AWS services. It's a living record of my learning journey, where each project represents a step forward in my understanding of data engineering in the cloud. Currently, the focus is on leveraging AWS technologies to build scalable, efficient, and robust data solutions.
 
 🛠 **Project 1: Autogen Agents for Interview Practice**
+
 Overview: This project focuses on using LLM-based agents to assist in interview preparation. Each agent is tailored to specialize in a specific type of interview, such as technical, behavioral, and case-based questions. The goal is to provide a practical and interactive platform where users can practice for interviews in a targeted and effective manner.
 
 **Key Features:**
+
 Specialized Agents:
 Technical Agent: Assists in coding interviews, data structure problems, and algorithmic challenges.
 Behavioral Agent: Simulates HR and behavioral interview scenarios, helping users refine their storytelling and communication skills.
